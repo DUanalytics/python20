@@ -1,0 +1,11 @@
+event,case,timestamp,activity_instance,activity,lifecycle_transition,resource_id
+1,0,09/28/2015 16:51:34,1,A,start,web
+2,0,09/28/2015 16:53:01,1,A,complete,web
+3,0,09/28/2015 16:53:51,3,D,start,web
+4,0,09/28/2015 16:54:03,2,C,start,web
+5,0,09/28/2015 16:56:33,2,C,complete,web
+6,0,09/28/2015 16:56:29,3,D,complete,web
+9,1,09/28/2015 16:51:53,5,A,start,web
+10,1,09/28/2015 16:53:18,5,A,complete,web
+11,1,09/28/2015 16:53:53,7,D,start,web
+12,1,09/28/2015 16:55:06,7,D,complete,web
